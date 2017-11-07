@@ -1,0 +1,24 @@
+{
+  "name": "cpsc473-hw6",
+  "version": "0.1.0",
+  "description": "Homework 6 for CPSC 473 (Web Front-End Engineering)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philipchungtech/cpsc473-hw6.git"
+  },
+  "author": "Philip Chung <philipchung1995@yahoo.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/philipchungtech/cpsc473-hw6/issues"
+  },
+  "homepage": "https://github.com/philipchungtech/cpsc473-hw6#readme",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
